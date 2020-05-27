@@ -54,4 +54,12 @@ Now you are good to go.
 #### 6. Demo Video link
 https://drive.google.com/file/d/1wpw4_vFaHaC5ARJhGeFO7iU0qfos_P45/view?usp=sharing
 
-
+### 7. URLs
+#### Home page: [http://localhost:8000/home](http://localhost:8000/home)
+![](https://i.imgur.com/yZV7741.jpg)
+#### About: [http://localhost:8000/about](http://localhost:8000/about)
+![](https://i.imgur.com/WdfFPEv.jpg)
+#### Scrapping: [http://localhost:8000/scrapping](http://localhost:8000/scrapping)
+![](https://i.imgur.com/FKYRB49.jpg)
+#### Analysis: [http://localhost:8000/analysis](http://localhost:8000/analysis)
+![](https://i.imgur.com/cx746KF.jpg)
