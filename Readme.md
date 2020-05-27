@@ -50,7 +50,7 @@ Try opening [http://localhost:8000](http://localhost:8000) in the browser.
 Now you are good to go.
 
 
-### 7. Video link
+#### 6. Video link
 https://drive.google.com/file/d/1wpw4_vFaHaC5ARJhGeFO7iU0qfos_P45/view?usp=sharing
 
 
