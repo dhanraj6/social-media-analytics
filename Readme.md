@@ -31,7 +31,6 @@ or use the code mentioned in the mail attachement.
 
 #### 4. Install requirements
 ```bash
-cd SMA/
 pip install -r requirements.txt
 sudo apt update
 sudo apt upgrade
@@ -42,6 +41,7 @@ python -m spacy download en_core_web_md
 #### 5. Run the server
 ```bash
 # Run the server
+cd SMA/
 python manage.py runserver
  
 # your server is up now
