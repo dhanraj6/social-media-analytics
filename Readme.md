@@ -1,4 +1,4 @@
-# simple-django-project
+# Social media analytics
 ## Installation
 
 ### Prerequisites
