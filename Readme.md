@@ -1,6 +1,6 @@
 # Social media analytics
 ## project overview
-### Airports are the gateway for a country to strengthen it's socio-economic ties with the rest of the world. Almost 3% of the country's GDP depends on the airlines industry. A large section of the Indian population uses air travel for their convenience to travel both domestically and internationally. This eventually results in a large volume of feedbacks received by the airport management. In order to keep track and analyse the public opinion. An automated feedback analysis system for sentimental analysis is required to improve the quality of the services in the airport. 
+Airports are the gateway for a country to strengthen it's socio-economic ties with the rest of the world. Almost 3% of the country's GDP depends on the airlines industry. A large section of the Indian population uses air travel for their convenience to travel both domestically and internationally. This eventually results in a large volume of feedbacks received by the airport management. In order to keep track and analyse the public opinion. An automated feedback analysis system for sentimental analysis is required to improve the quality of the services in the airport. 
 
 ## Installation
 
