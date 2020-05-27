@@ -12,7 +12,7 @@ Cuz,Because
 AEAP,As Early as Possible
 ALAP,As Late as Possible
 ASAP,As Soon as Possible
-ASL,Age / Sex / Location?
+ASL,Age
 B3,Blah
 B4YKI,Before You Know it
 BFF,Best Friends Forever
@@ -52,7 +52,7 @@ N-A-Y-L,In a While
 NAZ,Name Address ZIP
 NC,No Comment
 NIMBY,Not in my Backyard
-NM,Never Mind / Nothing Much
+NM,Never Mind 
 NP,No Problem
 NSFW,Not Safe for Work
 NTIM,Not that it Matters
@@ -67,7 +67,7 @@ PAL,Parents are Listening
 PAW,Parents are Watching
 PIR,Parent in Room
 POS,Parent over Shoulder
-PROP(S),Proper Respect / Proper Recognition
+PROP(S),Proper Respect 
 QT,Cutie
 RN,Right Now
 RU,Are You
@@ -77,7 +77,7 @@ SLAP,Sounds like a Plan
 SMIM,Send Me an Instant Message
 SO,Significant Other
 TMI,Too Much Information
-UR,Your / You are
+UR,Your 
 W8,Wait
 WB,Welcome Back
 WYCM,Will You Call Me?
@@ -94,17 +94,17 @@ WRT,With Regard to
 TYVM,Thank You Very Much
 ICYMI,In Case you missed it
 TBA,To be Announced
-TBC,To be Continued / To be Confirmed
+TBC,To be Continued 
 IDK,I don't know
-IIRC,If I Recall / Remember Correctly
+IIRC,If I Recall 
 IMHO,In my Humble Opinion
 IMO,In my Opinion
-IMNSHO,In my not so Humble / Honest Opinion
+IMNSHO,In my not so Humble 
 IOW,In other Words
 ITT,In this Thread
 LOL,Laughing out loud
 DGMW,Don't get me wrong
-2,to / too
+2,to 
 4,for
 B,be
 C,see
