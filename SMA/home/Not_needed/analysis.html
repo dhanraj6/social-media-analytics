@@ -1,0 +1,118 @@
+ {% extends 'home/base.html' %} {% block content %}
+
+
+
+
+<div class="container">
+    <div class="col">
+        <div class="d-sm-flex justify-content-between align-items-center mb-4" id="analysis">
+            <h3 class="text-dark mb-0">&nbsp; Analysis</h3>
+        </div>
+    </div>
+
+
+
+    <div>
+        <div class="row">
+
+            <div class="col-md-6 col-lg-12 col-xl-11 mb-4" style="width: 1000px;">
+                <div class="card shadow border-left-primary py-2" style="width: 1150px;">
+                    <div class="card-body" style="width: 1150px;"><input type="file" style="border: groove;width: 500px;"><button class="btn btn-primary" type="Scraping" style="width: 230px;margin-left: 127px;">Analyse</button>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+            <div class="col">
+                <div class="d-sm-flex justify-content-between align-items-center mb-4" id="analysis">
+                    <h3 class="text-dark mb-0">&nbsp;Sentimental Analysis</h3>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-12 col-xl-11 mb-4" style="width: 1000px;">
+                <div class="card shadow border-left-primary py-2" style="width: 1150px;">
+                    <div class="card-body" style="width: 1150px;">
+                        <div class="text-uppercase text-info font-weight-bold text-xs mb-1" style="font-size: 20px;margin-top: 34px;"><span>Positive Reviews</span></div><span></span><textarea style="width: 1000px;height: 200px;margin-top: 20px;border-style: double;border-width: thick;"></textarea>
+                        <div></div>
+                        <div class="text-uppercase text-info font-weight-bold text-xs mb-1" style="margin-top: 40px;"><span style="font-size: 20px;margin-top: 0px;margin-bottom: 0px;">Negative Reviews</span></div><textarea style="width: 1000px;height: 200px;margin-top: 20px;border-style: groove;border-width: thick;"></textarea></div>
+                </div>
+                <div></div>
+                <div class="card shadow border-left-primary py-2" style="width: 1150px;margin-top: 35px;">
+                    <div class="col" id="topic">
+                        <div class="d-sm-flex justify-content-between align-items-center mb-4">
+                            <h3 class="text-dark mb-0">&nbsp;Topic wise Categorization</h3>
+                        </div>
+                    </div>
+                    <div class="card-body" style="width: 1150px;">
+                        <div class="text-uppercase text-info font-weight-bold text-xs mb-1" style="font-size: 20px;"><span>Food/Shopping</span></div><textarea style="width: 1000px;height: 150px;margin-top: 20px;border-style: double;border-width: thick;"></textarea>
+                        <div class="text-uppercase text-info font-weight-bold text-xs mb-1" style="font-size: 20px;"><span>Security/staff</span></div><textarea style="width: 1000px;height: 150px;margin-top: 20px;border-style: double;border-width: thick;"></textarea>
+                        <div></div>
+                        <div class="text-uppercase text-info font-weight-bold text-xs mb-1" style="margin-top: 40px;"><span style="font-size: 20px;margin-top: 0px;margin-bottom: 0px;"><br>infrastructure<br><br></span></div><textarea style="width: 1000px;height: 150px;margin-top: 20px;border-style: groove;border-width: thick;"></textarea>
+                        <div class="text-uppercase text-info font-weight-bold text-xs mb-1" style="margin-top: 40px;"><span style="font-size: 20px;margin-top: 0px;margin-bottom: 0px;"><br>maintenance<br><br></span></div><textarea style="width: 1000px;height: 150px;margin-top: 20px;border-style: groove;border-width: thick;"></textarea></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col">
+    <div class="d-sm-flex justify-content-between align-items-center mb-4">
+        <h3 class="text-dark mb-0" id="visual">Visualization</h3>
+    </div>
+    <div class="card shadow border-left-primary py-2" style="width: 1150px;margin-top: 30px;">
+        <div class="card-body" style="width: 1150px;">
+            <div class="container" style="width: 1000px;">
+                <div class="row fbox3">
+                    <div class="col-sm-4 d-flex justify-content-center align-items-center">
+                        <div></div><img src="assets/img/shops_real_tagged.png" width="400px">
+                        <p>Enter text here</p>
+                    </div>
+                    <div class="col-sm-4 offset-xl-2 d-flex justify-content-center align-items-center"><img src="assets/img/shops_real_with_numbers.png" width="400">
+                        <p>enter text</p>
+                        <a data-fancybox="gallery" data-caption="Hero Image Food" href="assets/img/hero-background-food.jpg"></a>
+                    </div>
+                    <div class="col-sm-4 d-flex justify-content-center align-items-center" style="margin-top: 87px;"><img src="assets/img/shops_real_tagged.png" width="400">
+                        <p>enter text</p>
+                        <a data-fancybox="gallery" data-caption="Hero Image Music" href="assets/img/hero-background-music.jpg"></a>
+                    </div>
+                    <div class="col-sm-4 offset-xl-2 d-flex justify-content-center align-items-center" style="margin-top: 87px;"><img src="assets/img/shops_real_tagged.png" width="400px">
+                        <p>enter text</p>
+                        <a data-fancybox="gallery" data-caption="Hero Image Photography" href="assets/img/hero-background-photography.jpg"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+<label class="switch">
+    <input type="checkbox" onclick="ShowHideCompare(this)">
+    <span class="slider round"></span>
+  </label>
+
+{% endblock %}
