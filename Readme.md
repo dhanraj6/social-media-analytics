@@ -27,8 +27,6 @@ source envs/bin/activate
 git clone "https://github.com/dhanraj6/socail-media-analytics"
 ```
 
-or use the code mentioned in the mail attachement.
-
 #### 4. Install requirements
 ```bash
 pip install -r requirements.txt
